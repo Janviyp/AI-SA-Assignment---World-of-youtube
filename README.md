@@ -17,8 +17,13 @@ Having a quality customer service requires understaanding user needs and interes
      variance to understand daata in a detailed manner.
    - Recoginize ehich influncer sttributes contribute to higher engagement rates.
 4. Visualizing;
-   - 
- 
+   - Use of tools like Tableau and power BI to visualize data graphically to make them more eye catching and easy to interpret.
+   - Allows to highlight only important variables and features of a dataset, like to performing influencer and content types or identify countries with highest online reach.
+5. Strategizing:
+   - Implement pilot or parellel testing to monitor the generated program to simultaaneously create reccomendation systems based on viewr interest and preferences.
+   - Use predictive models to develop future improvements.
+6. Feedback:
+   -  After implementing system keep track of performance and re-evaluate finding to keep refining outcomes for more accurate and affective analysis.
    
 
 Key Insights
@@ -31,10 +36,14 @@ show more stable follower growth, indicating that long-term credibility fosters 
 
 Dashboard Features
 • Follower Growth Analysis: A line graph that illustrates follower count trends over time.
+
 • Engagement vs. Content Output: A scatter plot that showcases the
 relationship between posting frequency and engagement.
+
 • Channel Age & Viewer Loyalty: A bar chart that compares audience retention across different channel age groups.
+
 • Geographic Reach: An interactive map highlighting engagement levels across different regions.
+
 • Filters & Selectors: Interactive tools allowing users to filter data by content category, channel age, and location for more in-depth analysis.
 
 
